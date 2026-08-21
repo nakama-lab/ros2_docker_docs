@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FR3/Robot start and stop.md",
+                "file": "Getting started with the LfD pipeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Robot start and stop"
+              "title": "Getting started with the LfD pipeline"
             }
           }
         ]
@@ -186,10 +186,10 @@
   },
   "active": "973fde3f6a014014",
   "lastOpenFiles": [
-    "Getting started with the LfD pipeline.md",
     "ros2_docker/ros2_docker stack.md",
-    "ros2_docker/ros2_docker repositories.md",
+    "Getting started with the LfD pipeline.md",
     "FR3/Robot start and stop.md",
+    "ros2_docker/ros2_docker repositories.md",
     "README.md",
     "ros2_docker/ros2_docker_ui.md",
     "ros2_docker",
