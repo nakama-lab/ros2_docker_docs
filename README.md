@@ -1,0 +1,1 @@
+The content is best read using [Obsidian](https://obsidian.md/), by pulling the repository and opening the repository folder as an obsidian vault.
